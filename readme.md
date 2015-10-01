@@ -14,12 +14,12 @@
 [Linux - Bash](http://code.tutsplus.com/tutorials/how-to-customize-the-command-prompt--net-20586)
 
 ##Ruby Fundamentals  
-If you like to read documentation before trying stuff out:  
-* :sparkle: [Learn to Program](https://pine.fm/LearnToProgram/)  
-* :sparkle: [Learn Ruby The Hard Way](learnrubythehardway.org/book/)  
-
 If you like to try stuff out and read documentation along the way: 
 * :sparkle: [Codecademy Ruby Track](https://www.codecademy.com/tracks/ruby)  
+* :sparkle: [Learn Ruby The Hard Way](learnrubythehardway.org/book/)  
+
+If you like to read documentation before trying stuff out:  
+* :sparkle: [Learn to Program](https://pine.fm/LearnToProgram/)  
 * :sparkle: [Learn Ruby The Hard Way](learnrubythehardway.org/book/)  
 
 ##Practice  
