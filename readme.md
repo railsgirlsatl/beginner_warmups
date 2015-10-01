@@ -5,9 +5,6 @@
 :soon: == Nice to have  
 :cool: == Someday, you might like this  
 
-:video_game: ==   
-:bulb: ==  
-
 ##Getting Started
 ###Installation
 * :sparkle: [RailBridgeInstallfest](http://docs.railsbridge.org/installfest/installfest)  
