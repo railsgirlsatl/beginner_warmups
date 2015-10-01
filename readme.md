@@ -31,6 +31,7 @@ If you like to try stuff out and read documentation along the way:
 * :soon: [Ruby Monstas - Ruby For Beginners](ruby-for-beginners.rubymonstas.org)  
 * :cool: [Exercism](exercism.io/getting-started)  
 * :cool: [Ruby Koans](http://rubykoans.com) 
+* :cool: Improve typing speed with Ruby characters [typing.io](https://typing.io/)  
 
 ##Why Programming? Why You?  
 * :sparkle: [She++](https://vimeo.com/63877454)  
