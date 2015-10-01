@@ -9,7 +9,7 @@
 ###Installation
 * :sparkle: [RailBridgeInstallfest](http://docs.railsbridge.org/installfest/installfest)  
 * :soon: [Offline documentation](https://blog.kapeli.com/dash-for-ios-android-windows-or-linux)  
-* :cool: Customize Command Line - [OSX - iTerm](https://www.iterm2.com/)  
+* :cool: Customize Command Line - [OSX - iTerm](https://www.iterm2.com/) or [Windows - Command Prompt](http://www.7tutorials.com/how-customize-command-prompt) or 
 
 ##Ruby Fundamentals
 
