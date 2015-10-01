@@ -4,7 +4,7 @@
 :sparkle: == Have to have  
 :soon: == Nice to have  
 :cool: == Someday, you might like this  
-:video_game: == Try it!  
+:video_game: == (?)  
 
 ##Getting Started
 ###Installation
