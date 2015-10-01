@@ -18,14 +18,16 @@
 
 ##Ruby Fundamentals  
 If you like to read documentation before trying stuff out:  
+* :sparkle: [Learn to Program](https://pine.fm/LearnToProgram/)  
+* :sparkle: [Learn Ruby The Hard Way](learnrubythehardway.org/book/)  
 
-If you like to try stuff out and read documentation along the way:  
+If you like to try stuff out and read documentation along the way: 
+* :sparkle: [Codecademy Ruby Track](https://www.codecademy.com/tracks/ruby)  
+* :sparkle: [Learn Ruby The Hard Way](learnrubythehardway.org/book/)  
 
 ##Practice  
-* :sparkle: [Learn to Program](https://pine.fm/LearnToProgram/)
-* :sparkle: [Learn Command Line The Hard Way](cli.learncodethehardway.org/book/)  
-* :sparkle: [Learn Ruby The Hard Way](learnrubythehardway.org/book/)  
-* :sparkle: [Codecademy Ruby Track](https://www.codecademy.com/tracks/ruby)  
-* :cool: [Ruby Monstas - Ruby For Beginners](ruby-for-beginners.rubymonstas.org)  
+* :sparkle: [Learn Command Line The Hard Way](cli.learncodethehardway.org/book/) 
+* :soon: [TestFirst - Ruby](http://testfirst.org/learn_ruby)  
+* :soon: [Ruby Monstas - Ruby For Beginners](ruby-for-beginners.rubymonstas.org)  
+* :cool: [Exercism](exercism.io/getting-started)  
 * :cool: [Ruby Koans](http://rubykoans.com) 
-* :soon: [Exercism](exercism.io/getting-started)  
