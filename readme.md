@@ -31,3 +31,7 @@ If you like to try stuff out and read documentation along the way:
 * :soon: [Ruby Monstas - Ruby For Beginners](ruby-for-beginners.rubymonstas.org)  
 * :cool: [Exercism](exercism.io/getting-started)  
 * :cool: [Ruby Koans](http://rubykoans.com) 
+
+##Why Program? Why You?  
+* :sparkle: [She++](https://vimeo.com/63877454)  
+* :cool: [How to Count - Programming for Mere Mortals](http://www.amazon.com/dp/B005DPIKPE/ref=rdr_kindle_ext_tmb)  
