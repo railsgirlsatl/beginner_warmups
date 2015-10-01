@@ -32,6 +32,6 @@ If you like to try stuff out and read documentation along the way:
 * :cool: [Exercism](exercism.io/getting-started)  
 * :cool: [Ruby Koans](http://rubykoans.com) 
 
-##Why Program? Why You?  
+##Why Programming? Why You?  
 * :sparkle: [She++](https://vimeo.com/63877454)  
 * :cool: [How to Count - Programming for Mere Mortals](http://www.amazon.com/dp/B005DPIKPE/ref=rdr_kindle_ext_tmb)  
