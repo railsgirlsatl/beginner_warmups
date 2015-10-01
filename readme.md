@@ -1,7 +1,6 @@
 #Beginner Warmups
 ![CuteDogsOnTreadmill](https://media.giphy.com/media/13mLwGra9bNEKQ/giphy.gif)
 
-Codes  
 :sparkle: == have to have  
 :soon: == nice to have  
 :cool: == someday, you might like this  
@@ -9,9 +8,8 @@ Codes
 ##Getting Started
 ###Installation
 * :sparkle: [RailBridgeInstallfest](http://docs.railsbridge.org/installfest/installfest)  
-* :soon: [RVM](https://rvm.io/) or [Rbenv](https://github.com/sstephenson/rbenv)   
-
-###Command Line
+* :soon: [Offline documentation](https://blog.kapeli.com/dash-for-ios-android-windows-or-linux)  
+* :cool: Customize Command Line - [OSX - iTerm](https://www.iterm2.com/)  
 
 ##Ruby Fundamentals
 
