@@ -1,9 +1,10 @@
 #Beginner Warmups
 ![CuteDogsOnTreadmill](https://media.giphy.com/media/13mLwGra9bNEKQ/giphy.gif)
 
-:sparkle: == have to have  
-:soon: == nice to have  
-:cool: == someday, you might like this  
+:sparkle: == Have to have  
+:soon: == Nice to have  
+:cool: == Someday, you might like this  
+:video_game: == Try it!  
 
 ##Getting Started
 ###Installation
