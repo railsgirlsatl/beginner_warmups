@@ -17,4 +17,6 @@
 [Linux - Bash](http://code.tutsplus.com/tutorials/how-to-customize-the-command-prompt--net-20586)
 
 ##Ruby Fundamentals
+If you like to read documentation before trying stuff out:  
 
+If you like to try stuff out and read documentation along the way:  
