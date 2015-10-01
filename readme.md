@@ -9,9 +9,8 @@ Codes
 ##Getting Started
 ###Installation
 * :sparkle: [RailBridgeInstallfest](http://docs.railsbridge.org/installfest/installfest)  
-* :soon: 
-  * [RVM](https://rvm.io/)  
-  * [Rbenv](https://github.com/sstephenson/rbenv)  
+* :soon: [RVM](https://rvm.io/) or [Rbenv](https://github.com/sstephenson/rbenv)   
+
 ###Command Line
 
 ##Ruby Fundamentals
